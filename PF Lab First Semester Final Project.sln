@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PF Lab First Semester Final Project", "PF Lab First Semester Final Project.vcxproj", "{34893B7F-7240-4660-BDF3-4219810075B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34893B7F-7240-4660-BDF3-4219810075B3}.Debug|x64.ActiveCfg = Debug|x64
+		{34893B7F-7240-4660-BDF3-4219810075B3}.Debug|x64.Build.0 = Debug|x64
+		{34893B7F-7240-4660-BDF3-4219810075B3}.Debug|x86.ActiveCfg = Debug|Win32
+		{34893B7F-7240-4660-BDF3-4219810075B3}.Debug|x86.Build.0 = Debug|Win32
+		{34893B7F-7240-4660-BDF3-4219810075B3}.Release|x64.ActiveCfg = Release|x64
+		{34893B7F-7240-4660-BDF3-4219810075B3}.Release|x64.Build.0 = Release|x64
+		{34893B7F-7240-4660-BDF3-4219810075B3}.Release|x86.ActiveCfg = Release|Win32
+		{34893B7F-7240-4660-BDF3-4219810075B3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F6FAD4E-6F5A-4ABE-B747-292F8B4A91BC}
+	EndGlobalSection
+EndGlobal
